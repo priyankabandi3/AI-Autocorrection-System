@@ -1,2 +1,32 @@
-# AI-Autocorrection-System
-AI-Powered Autocorrection System built using Python, Streamlit, and NLP techniques. The application automatically detects and corrects spelling mistakes, provides corrected text output, and offers a simple web-based interface for text correction.
+# AI-Powered Autocorrection System
+
+## Overview
+
+This project automatically detects and corrects spelling mistakes using NLP techniques.
+
+## Technologies Used
+
+* Python
+* Streamlit
+* TextBlob
+* NLP
+
+## Features
+
+* Text autocorrection
+* Error detection
+* User-friendly web interface
+
+## How to Run
+
+pip install -r requirements.txt
+
+python -m streamlit run app.py
+
+## Sample Input
+
+I havv a dreem
+
+## Sample Output
+
+I have a dream
